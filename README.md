@@ -29,7 +29,7 @@ def gcd():
 ```
 
 ## Output:
-![output](./gcdimg.png)
+![output](./gcdimage.jpg)
 
 
 
