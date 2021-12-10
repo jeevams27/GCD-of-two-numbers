@@ -15,10 +15,6 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-<<<<<<< HEAD
-/*
-=======
->>>>>>> 8dd4a803bff6be42f2b33007f603af228133e602
 def gcd():
     n1=int(input())
     n2=int(input())
@@ -33,12 +29,8 @@ def gcd():
 ```
 
 ## Output:
-<<<<<<< HEAD
 ![output](./gcdimg.png)
-=======
 
-
->>>>>>> 8dd4a803bff6be42f2b33007f603af228133e602
 
 
 ## Result:
